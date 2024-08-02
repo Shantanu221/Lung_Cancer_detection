@@ -1,20 +1,18 @@
 
 # Lung Cancer Detection
 - Lung Cancer Detection using CNN and Tranfer Learning to classify lung cell images of three categories
+- Used EfficientNetV2S pre-trained model for tranfer learning
+- Achived an accuracy of 98%
 
-## Demo
+## Dataset: 
+- [dataset_link](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)
 
-Insert gif or link to demo
+## Modules used:
+- Tensorflow
+- Keras
+- Pandas
+- NumPy
+- MatplotLib
+- OpenCV
 
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
